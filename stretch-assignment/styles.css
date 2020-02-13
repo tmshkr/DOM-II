@@ -1,6 +1,6 @@
 body {
   display: flex;
-  /*justify-content: center;*/
+  margin: 0;
 }
 
 .blocks {
@@ -12,7 +12,7 @@ body {
 .block {
   width: 100px;
   height: 100px;
-  margin: 10px;
+  margin: 10px 0;
 }
 
 .block--red {
